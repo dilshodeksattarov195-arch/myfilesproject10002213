@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceuync",
+        "uuid": 801106,
+        "checksum": "k296no"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
